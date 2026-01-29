@@ -1,33 +1,34 @@
 # 🔍 Análise Técnica — Phishing Exemplo 01
 
 ## 🧾 Resumo Executivo
-Este e-mail apresenta características claras de phishing bancário, utilizando técnicas de engenharia social, domínio falso e link malicioso com o objetivo de induzir a vítima ao fornecimento de credenciais sensíveis. O risco é classificado como **alto**, devido ao potencial impacto financeiro e comprometimento de dados pessoais.
+Este e-mail apresenta características claras de phishing bancário, utilizando técnicas de engenharia social, domínio falso e link malicioso com o objetivo de induzir a vítima à **divulgação de informações confidenciais**.  
+O risco é classificado como **alto**, devido ao potencial impacto financeiro e ao comprometimento de dados pessoais.
 
 ---
 
 ## 📧 Informações Gerais
-- Tipo: Phishing bancário  
-- Objetivo: Roubo de credenciais  
-- Nível de risco: Alto  
+- **Tipo:** Phishing bancário  
+- **Objetivo:** Roubo de credenciais  
+- **Nível de risco:** Alto  
 
 ---
 
 ## 🚩 Indicadores de Phishing Identificados
 
-### 1️⃣ Remetente suspeito
-- Endereço: suporte@bancoseguro-alerta.com  
+### 1️⃣ Remetente
+- **Endereço:** suporte@bancoseguro-alerta.com  
 - Domínio não oficial, criado para simular comunicação legítima de instituição financeira  
 
 ---
 
 ### 2️⃣ Engenharia social
-- Uso de senso de urgência: **“URGENTE – Sua conta será bloqueada”**  
+- Uso de senso de urgência: *“URGENTE – Sua conta será bloqueada”*  
 - Pressão psicológica para induzir ação imediata (prazo de 2 horas)  
 
 ---
 
 ### 3️⃣ Link malicioso
-- URL: http://banco-seguro-verificacao[.]com/login  
+- **URL:** http://banco-seguro-verificacao[.]com/login  
 - Domínio não pertence à instituição legítima  
 - Uso de spoofing visual para enganar o usuário  
 
@@ -37,7 +38,7 @@ Este e-mail apresenta características claras de phishing bancário, utilizando 
 - Engenharia social baseada em urgência  
 - Spoofing de domínio  
 - Phishing por link  
-- Referência MITRE ATT&CK: **T1566.002 – Phishing via Link**  
+- **MITRE ATT&CK:** T1566.002 – Phishing via Link  
 
 ---
 
@@ -45,7 +46,7 @@ Este e-mail apresenta características claras de phishing bancário, utilizando 
 - Não clicar em links recebidos por e-mail  
 - Verificar cuidadosamente o domínio do remetente  
 - Acessar sites sensíveis digitando o endereço manualmente no navegador  
-- Reportar o e-mail suspeito ao time de segurança ou SOC  
+- Reportar o e-mail suspeito ao **time de segurança ou SOC**  
 
 ---
 
