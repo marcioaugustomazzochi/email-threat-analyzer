@@ -17,7 +17,7 @@ O risco é classificado como **alto**, devido ao potencial impacto financeiro e 
 
 ### 1️⃣ Remetente
 - **Endereço:** suporte@bancoseguro-alerta.com  
-- Domínio não oficial, criado para simular comunicação legítima de instituição financeira  
+- Domínio não oficial, criado para simular comunicação legítima e enganar o usuário
 
 ---
 
