@@ -1,5 +1,8 @@
 # 🔍 Análise Técnica — Phishing Exemplo 01
 
+## 🧾 Resumo Executivo
+Este e-mail apresenta características claras de phishing bancário, utilizando engenharia social, domínio falso e link malicioso com o objetivo de induzir a vítima ao fornecimento de credenciais. O risco é classificado como alto devido ao potencial impacto financeiro e comprometimento de dados.
+
 ## 📧 Informações Gerais
 - Tipo: Phishing bancário
 - Objetivo: Roubo de credenciais
