@@ -1,0 +1,15 @@
+De: suporte@bancoseguro-alerta.com
+Para: usuario@email.com
+Assunto: URGENTE – Sua conta será bloqueada
+
+Prezado cliente,
+
+Identificamos uma atividade suspeita em sua conta.
+Para evitar o bloqueio, confirme seus dados imediatamente no link abaixo:
+
+http://banco-seguro-verificacao[.]com/login
+
+Caso não confirme em até 2 horas, sua conta será suspensa.
+
+Atenciosamente,
+Equipe de Segurança
